@@ -7,15 +7,15 @@
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "env": {
     "SMOOCH_APP_TOKEN": {
-      "description": "Your Smooch app token which is used to initialize the web widget.",
+      "description": "cid71f5sxrwgaxbohlyn9p0ll",
       "required": true
     },
     "SMOOCH_KEY_ID": {
-      "description": "Your Smooch key ID, used to talk to the Smooch API",
+      "description": "app_57320c3faab1104c01afbb1d",
       "required": true
     },
     "SMOOCH_SECRET": {
-      "description": "Your Smooch secret, used to talk to the Smooch API",
+      "description": "pOsVCVGmikw0Zjp9dw3ZRgb8",
       "required": true
     }
   }
